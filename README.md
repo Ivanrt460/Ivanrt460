@@ -1,4 +1,4 @@
-# <h2 align="left">Hola👋! Mi Nombre es Ivan</h2>
+<h2 align="left">Hola👋! Mi Nombre es Ivan</h2>
 
 ###
 
@@ -58,10 +58,6 @@
 
 ###
 
-<img align="right" height="150" src="https://iili.io/HrbTnu2.png"  />
-
-###
-
 <p align="left">Hola Buenas,<br>Bienvenido a mi canal de GitHub.<br>Soy un estudiante de 20 años de ASIX y Trabajador a tiempo parcial de Helpdesker.</p>
 
 ###
@@ -69,4 +65,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/ivanrt460/count.svg?"  />
 </div>
+
 ###

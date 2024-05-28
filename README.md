@@ -100,7 +100,6 @@ Soy una persona apasionada por las tecnologías, responsable y con muchas ganas 
 - **Equipo de Trabajo:** [Lista de miembros del equipo involucrados en el proyecto]
 - **Resultados y Logros:** [Breve resumen de los resultados obtenidos y los logros alcanzados durante el proyecto]
 
-
 ### Proyecto 3: [Título del Proyecto]
 - **Descripción:** Breve descripción del proyecto.
 

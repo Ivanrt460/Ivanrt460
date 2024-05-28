@@ -152,8 +152,108 @@ Soy una persona apasionada por las tecnologías, responsable y con muchas ganas 
 
 
 
-### Proyecto 4: [Título del Proyecto]
-- **Descripción:** Breve descripción del proyecto.
+### Projecte 4: Ciberseguretat, Administració de SO i Auditories de Seguretat
+Estructura del Projecte
+Àmbits:
+
+Bases de dades
+Sistemes Operatius
+Xarxes, seguretat en xarxes i serveis
+Seguretat (ofensiva/defensiva)
+Planificació i empresa (transversal)
+Mòduls i Unitats Formatives:
+
+MP02 UF3: Assegurament de la informació (28h)
+MP06 UF1: Administració avançada de sistemes operatius (10h)
+MP07 UF2: Administració de dispositius de xarxa (12h)
+MP07 UF3: Administració avançada de xarxes (16h)
+MP08 UF3: Correu electrònic i missatgeria (22h)
+MP11 UF1: Seguretat física, lògica i legislació (6h)
+MP11 UF2: Seguretat activa i accés remot (16h)
+MP11 UF3: Tallafocs i servidors intermediaris (6h)
+MP14 FOL (7h)
+MP14 Lliure disposició (56h)
+Temporització: 14/02/2024 al 09/04/2024 (179h)
+
+Requisits previs
+Planificació i gestió a través d'una eina de planificació (avaluació setmanal).
+Ordinador portàtil o de sobretaula amb requisits mínims segons full de matrícula.
+Formar part d'un grup de treball.
+Configuracions d'adreces IP o altres que l'equip docent indiqui.
+Enllaç Programari Microsoft
+Introducció
+Part 1: Contextualització
+L'empresa ha començat a patir incidents de seguretat que afecten diversos sistemes operatius i serveis en diferents departaments. Aquests incidents inclouen la caiguda dels serveis de correu electrònic per programari maliciós i la vulneració del servidor web. Es decideix millorar la infraestructura de xarxa i la seguretat global, incloent la implementació de Zentyal com a nou sistema de correu electrònic.
+
+Objectiu: Implementar seguretat a l'empresa amb mesures defensives (passives) i ofensives.
+
+Tasques i Adequacions
+Seguretat Defensiva
+Infraestructura de xarxa:
+
+Instal·lació de tallafocs
+Configuració de dispositius de xarxa (Switchos i Routers)
+Implantació de programari d'anàlisi de programari maliciós
+Millora de la seguretat global
+Actualització de dispositius:
+
+Actualització de PC’s, servidors, telèfons mòbils, punts d’accés a la xarxa (AP)
+Infraestructura de xarxa i comunicacions:
+
+Afegir ACL’s i VLAN’s
+Instal·lació de sistemes de detecció d'intrusos i programari antivirus
+Esquema de la infraestructura:
+Esquema
+
+Seguretat Ofensiva
+Pentesting:
+
+Instal·lar Kali Linux, Parrot Linux o similar
+Analitzar i atacar els propis sistemes (detectar i categoritzar vulnerabilitats)
+Classificar almenys 5 vulnerabilitats trobades segons CVE
+Desenvolupar dos tipus d'enginyeria social aplicables a l'empresa
+Metasploit:
+
+Utilitzar Metasploit per vulnerar sistemes (5 exploits diferents)
+Esbrinar versió de MySQL, descobrir contrasenyes i comptes d'usuaris
+Explicar les taules Rainbow i cercar informació sobre Cracking Hashes
+Tasques Defensives Detallades
+pfSense:
+
+Configuració de paquets per navegació web, connexions remotes, etc.
+Implementació de regles NAT + Port Forwarding
+IPFire:
+
+Configuració i gestió de zones (Red, Orange, Green, Blue)
+Implementació de regles NAT + Port Forwarding per zones Red, Orange, Green, Blue
+Routers DLink i Radius:
+
+Configuració de SSID i accés a la interfície del IPFire
+IPTables:
+
+Configuració de connexions SSH, VNC i RDP en mode restrictiu
+Proves de connexió i demostracions
+Dispositius de Xarxa DLINK i CISCO:
+
+Configuració de VLANs, rutes estàtiques i ACLs
+Implementació de trunk als commutadors compartits
+Servidor de correu Zentyal:
+
+Configuració de DNS, Domain Controller, Jabber, Correu, Filtre de Correu, SOGo Webmail, Xarxa, tallafocs i antivirus
+Creació de comptes de correu i demostració d'accés
+Monitorització:
+
+Instal·lació de SNORT a la zona Green del IPFire
+Configuració d'un tallafocs capa 7 (SQUID PROXY) i proves de filtratge
+Implementació Simplificada (IsardVDI)
+Configuració de pfSense i Windows 10/11
+Proves de connectivitat
+Exemple de Planificació
+Avaluació:
+
+Segons rúbriques definides al moodle.
+Rúbrica transversal amb seguiment setmanal.
+Aquest és un resum de les tasques i objectius del projecte de Ciberseguretat, Administració de SO i Auditories de Seguretat, detallant les àrees d'actuació, els mòduls implicats, les tasques específiques a realitzar i els requisits previs per a la correcta execució del projecte.
 
 ### Proyecto 5: [Título del Proyecto]
 - **Descripción:** Breve descripción del proyecto.

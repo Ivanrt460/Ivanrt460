@@ -100,8 +100,57 @@ Soy una persona apasionada por las tecnologías, responsable y con muchas ganas 
 - **Equipo de Trabajo:** [Lista de miembros del equipo involucrados en el proyecto]
 - **Resultados y Logros:** [Breve resumen de los resultados obtenidos y los logros alcanzados durante el proyecto]
 
-### Proyecto 3: [Título del Proyecto]
-- **Descripción:** Breve descripción del proyecto.
+### Proyecto 3: Migración, Redundancia, Seguridad y DevOps en Bases de Datos
+
+- **Ámbito 1:** Migración y Redundancia de Bases de Datos
+  - **Planificación y Diseño:** Se llevará a cabo una planificación detallada para la migración de las bases de datos existentes y la implementación de medidas de redundancia para garantizar la disponibilidad de los datos en caso de fallos.
+  - **Reestructuración del Centro de Procesamiento de Datos (CPD):** Se realizarán cambios en la infraestructura del CPD para mejorar su organización y eficiencia, incluyendo la conexión de departamentos mediante routers y switches, siguiendo el esquema proporcionado.
+  - **Implementación de Seguridad en Bases de Datos:** Se identificarán y corregirán problemas de seguridad en las bases de datos existentes, incluyendo técnicas de inyección SQL, y se implementarán medidas para cumplir con la legislación de protección de datos.
+
+- **Ámbito 2:** Reestructuración del CPD y Componentes
+  - **Configuración de Equipos de Red:** Se configurarán routers, switches y dispositivos de red para garantizar la conectividad y seguridad de la infraestructura.
+  - **Implementación de Seguridad en CPD:** Se aplicarán medidas de seguridad física y lógica en el CPD, incluyendo la configuración de listas de control de acceso (ACL) y la protección de puertos.
+  - **Actualización de Equipos y Componentes:** Se actualizarán equipos de red, armarios, cableado y otros componentes según las necesidades del proyecto.
+
+- **Ámbito 3:** Sistemas Operativos, Servicios e Impresión (PowerShell)
+  - **Configuración de Servidores Linux:** Se configurarán servidores Linux con los servicios necesarios para el funcionamiento del CPD, incluyendo Apache, DHCP y DNS.
+  - **Automatización de Tareas con PowerShell:** Se desarrollarán scripts en PowerShell para automatizar tareas de administración y mantenimiento en entornos Windows.
+  - **Gestión de Colas de Impresión:** Se implementarán colas de impresión seguras en servidores Windows Server para gestionar la impresión de documentos en la red.
+
+- **Ámbito 4:** Redes y DevOps
+  - **Configuración de Redes:** Se definirán subredes y se configurarán routers y switches para garantizar la conectividad y seguridad de la red.
+  - **Despliegue de Aplicaciones Web:** Se implementarán aplicaciones web en entornos de desarrollo y producción utilizando herramientas de DevOps como Vagrant y Ansible.
+  - **Gestión de Versiones de Software:** Se utilizarán herramientas de control de versiones como Git para gestionar el código fuente y las configuraciones de los sistemas.
+
+- **Ámbito 5:** Seguridad en Bases de Datos (Técnicas de Inyección SQL)
+  - **Análisis de Vulnerabilidades:** Se identificarán y corregirán vulnerabilidades en las bases de datos mediante técnicas de escaneo de seguridad y pruebas de penetración.
+  - **Implementación de Medidas de Seguridad:** Se aplicarán medidas de seguridad en las bases de datos, como la restricción de acceso y la validación de datos, para prevenir ataques de inyección SQL.
+
+- **Ámbito 6:** Planificación y Empresa (Transversal)
+  - **Planificación del Proyecto:** Se realizará una planificación detallada del proyecto utilizando herramientas de gestión de proyectos, y se llevará a cabo un seguimiento semanal del progreso.
+  - **Cumplimiento Normativo:** Se analizará el impacto del proyecto en la legislación de protección de datos y se implementarán medidas para garantizar el cumplimiento de las regulaciones.
+
+- **Estructura de Módulos y Unidades Formativas:**
+  - MP02 UF3 (18h)
+  - MP05 UF3 (10h)
+  - MP06 UF1 (22h)
+  - MP07 UF2 (20h)
+  - MP09 UF2 (2h)
+  - MP11 UF1 (10h)
+  - MP14 FOL (5h)
+  - MP14 Lliure Disposició (40h)
+  - **Total:** 127 horas
+
+- **Duración del Proyecto:** Del 10/01/2024 al 13/02/2024 (119 horas)
+
+- **Requisitos Previos:**
+  - Todo el proyecto debe ser planificado y gestionado a través de una herramienta de planificación.
+  - Se requiere un ordenador portátil con los requisitos mínimos especificados.
+  - Trabajo en grupo.
+
+*Detalles adicionales sobre el proyecto disponibles bajo petición.*
+
+
 
 ### Proyecto 4: [Título del Proyecto]
 - **Descripción:** Breve descripción del proyecto.

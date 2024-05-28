@@ -1,71 +1,122 @@
-# ¡Hola! 👋 Mi nombre es Iván Rodríguez
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivrodriguezt-blue)](https://es.linkedin.com/in/iv%C3%A1n-rodr%C3%ADguez-torres-786a71206) 
-[![Gmail](https://img.shields.io/badge/Gmail-ivrodriguezt@gmail.com-red)](mailto:ivrodriguezt@gmail.com)
-
-## Sobre Mí
-
-¡Hola! Bienvenidos a mi perfil de GitHub. Soy Iván Rodríguez, un apasionado de la tecnología con 20 años de edad. Actualmente, estudio **ASIX** (Administración de Sistemas Informáticos en Red) y trabajo a tiempo parcial como helpdesker. Me encanta aprender nuevas habilidades y mejorar mis conocimientos en el campo de la informática.
+# ¡Hola! 👋 Mi Nombre es Ivan
 
 ---
 
-## Habilidades Técnicas
-
-### Lenguajes de Programación:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-
-### Herramientas y Tecnologías:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
----
-
-## Proyectos Destacados
-
-### [Proyecto 1: Sistema de Gestión de Inventarios](https://github.com/Ivanrt460/proyecto1)
-- **Descripción:** Un sistema para gestionar inventarios utilizando Node.js y MySQL.
-- **Tecnologías:** Node.js, MySQL, HTML, CSS, JavaScript.
-
-### [Proyecto 2: Aplicación de Tareas](https://github.com/Ivanrt460/proyecto2)
-- **Descripción:** Una aplicación web para la gestión de tareas diarias.
-- **Tecnologías:** HTML, CSS, JavaScript.
-
----
-
-## Experiencia Profesional
-
-- **PT1 Auxiliar de Helpdesk** en CIRCUTOR (2022 - Actualidad)
-  - Solución de problemas técnicos y soporte al usuario.
-  
-- **CFO Técnico en Manos Remotas** en T-Systems (2021 - 2022)
-  - Mantenimiento y administración de sistemas remotos.
-  
-- **Helpdesk** en SOSMATIC (2020 - 2021)
-  - Asistencia técnica y resolución de incidencias.
-
----
-
-## Educación
-
-- **CFGM Técnico de Micro Sistemas Informáticos y Redes** - Nicolau Copernic (2019 - 2021)
-- **Educación Secundaria Obligatoria** - Institut Arraona (2013 - 2019)
-
----
-
-## Contacto
-
-- **LinkedIn:** [Iván Rodríguez](https://es.linkedin.com/in/iv%C3%A1n-rodr%C3%ADguez-torres-786a71206)
-- **Email:** [ivrodriguezt@gmail.com](mailto:ivrodriguezt@gmail.com)
-
----
 <div align="center">
   <img height="500" src="https://iili.io/HrbGfsf.png"  />
 </div>
 
+Hola Buenas,
+Bienvenido a mi canal de GitHub.
+Soy un estudiante de 20 años de ASIX y trabajador a tiempo parcial de Helpdesker.
 
-¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier consulta o colaboración.
+---
+
+## 🛠 Habilidades Técnicas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+
+## 🌐 Conéctate Conmigo
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:example@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/iv%C3%A1n-rodr%C3%ADguez-torres-786a71206)
+
+---
+
+## 📄 Sobre Mí
+Soy una persona apasionada por las tecnologías, responsable y con muchas ganas de aprender y progresar social y optimista. Produzco y mi principal objetivo es el desarrollo y aprendizaje dentro de una empresa tecnológica.
+
+---
+
+## 📚 Educación
+- **Educación Secundaria Obligatoria** - Institut Arraona (2015 - 2019)
+- **PFI Auxiliar de Muntatge i Manteniment d'Equips Informàtics** - INS La Ferreria (2019 - 2020)
+- **CFGM Tècnic de Micro Sistemes Informàtics i Xarxes** - Nicolau Copernic (2020 - 2022)
+- **CFGS Administració de Sistemes Informàtics en Xarxa** - Nicolau Copernic (2022 - Actualidad)
+
+---
+
+## 💼 Experiencia Laboral
+- **PFI Dual Helpdesker** - CIRCUITOR (2021 - 2022)
+- **CFGM Tècnic Manes Remotas** - T-Systems (2022)
+- **CFGS 1 Dual** - Helpdesk SOSMATIC (2022 - Actualidad)
+
+---
+
+## 📂 Proyectos
+
+### Proyecto 1: Xarxes, Maquinari i Serveis al Núvol
+- **Ámbito 1:** Infraestructura de Maquinari i Xarxa
+- **Ámbito 2:** Instal·lacions Bàsiques i Serveis al Núvol
+- **Ámbito 3:** Planificació i Empresa
+- **Duración:** 12/09/2023 - 31/10/2023 (178 h)
+- **Descripción:** Adequación del entorno de trabajo para una nueva empresa, incluyendo la configuración de hardware, red, y servicios en la nube.
+- **Módulos Incluidos:**
+  - MP05 Hardware UF1(22h), UF2 (6h)
+  - MP06 UF1 SO (6h)
+  - MP07 Teoría Xarxes (ARP, SNMP, Wifi) UF1 - (28h)
+  - MP08 Serveis UF1 (DNS, DHCP) (25h), UF2 Web Server (25h)
+  - MP09 (MP9-UF2)(3h)
+  - MP14 FOL (7h)
+  - MP14 Lliure Disposició (56h)
+- **Requisitos Previos:**
+  - Planificación y gestión del proyecto con herramientas específicas.
+  - Disponer de ordenador portátil con requisitos mínimos.
+  - Trabajar en grupo.
+  - Configuraciones de direcciones IP según lo indicado.
+- **Tareas y Adecuaciones:**
+  - Estudio y análisis del hardware de servidores.
+  - Comprobación y reparación de cableado de red.
+  - Instalación de sistemas operativos y servicios en la nube.
+  - Creación de usuarios y políticas de copia de seguridad.
+  - Configuración de servidores web y DNS.
+  - Instalación de Proxmox en servidores Supermicro.
+  - Implementación de servicios en Amazon AWS.
+  - Configuración de servicios en el hogar y en Isard VDI.
+
+*Detalles adicionales sobre el proyecto disponibles bajo petición.*
+
+### Proyecto 2: [Título del Proyecto]
+- **Descripción:** Breve descripción del proyecto.
+
+### Proyecto 3: [Título del Proyecto]
+- **Descripción:** Breve descripción del proyecto.
+
+### Proyecto 4: [Título del Proyecto]
+- **Descripción:** Breve descripción del proyecto.
+
+### Proyecto 5: [Título del Proyecto]
+- **Descripción:** Breve descripción del proyecto.
+
+---
+
+## 📜 Certificaciones
+- [Certificación 1]
+- [Certificación 2]
+
+---
+
+## 🔧 Conocimientos Adquiridos
+- Redes
+- Aplicativos con Powershell, Scripts
+- Crontab, FreePbx
+- Ipfire, Pfsense, HighAvailability
+- Prestashop, Wordpress
+- Apache, Vagrant, Terraform
+- Amazon Cloud
+
+<div align="center">
+  <img height="500" src="https://iili.io/HrbGfsf.png"  />
+</div>
+
+---
+
+¡Gracias por visitar mi perfil de GitHub! añadelo aqui para poder subirlo en mi perfil de github

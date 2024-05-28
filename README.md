@@ -80,36 +80,25 @@ Soy una persona apasionada por las tecnologías, responsable y con muchas ganas 
 
 *Detalles adicionales sobre el proyecto disponibles bajo petición.*
 
-### Proyecto 2: [Título del Proyecto]
-- ### Proyecto 2: Implementación de Sistema de Gestión de Servidores Virtuales
+### Proyecto 2: Implementación de Sistema de Gestión de Servidores Virtuales
 
-- **Descripción:** El proyecto de Implementación de Sistema de Gestión de Servidores Virtuales se propuso diseñar y desplegar una infraestructura robusta para administrar servidores virtuales tanto en entornos locales como en la nube. Este proyecto abarcó la configuración y puesta en marcha de servidores virtuales utilizando tecnologías como Proxmox para la virtualización interna y Amazon AWS para la expansión en la nube pública. El objetivo principal fue crear un entorno flexible y escalable que permitiera a la empresa alojar aplicaciones y servicios críticos de forma eficiente y segura.
+- **Ámbito 1:** Infraestructura de Servidores Virtuales
+  - **Planificación y Diseño:** Se realizó una planificación detallada para definir la arquitectura de la infraestructura de servidores virtuales, incluyendo la determinación de los requisitos de hardware, la distribución de recursos y la implementación de medidas de seguridad.
+  - **Configuración de Servidores:** Se configuraron y desplegaron servidores virtuales utilizando la plataforma Proxmox, permitiendo la creación y gestión de máquinas virtuales de forma eficiente.
+  - **Integración de Amazon AWS:** Se estableció una conexión con Amazon AWS para la implementación de servidores virtuales en la nube pública, aprovechando los servicios de computación elástica y almacenamiento escalable.
+  - **Implementación de Redundancia:** Se implementaron medidas de redundancia y alta disponibilidad para garantizar la continuidad del servicio en caso de fallos de hardware o mantenimiento programado.
 
-- **Ámbito 1: Infraestructura de Servidores Virtuales:**
-  - **Planificación y Diseño:** Se realizó una planificación detallada para definir la arquitectura de la infraestructura de servidores virtuales, considerando requisitos de rendimiento, escalabilidad y seguridad.
-  - **Implementación de Proxmox:** Se configuraron y desplegaron servidores Proxmox en hardware Supermicro para la virtualización interna de recursos. Esto incluyó la instalación y configuración de Proxmox VE, la creación de máquinas virtuales y la configuración de almacenamiento y redes virtuales.
-  - **Integración con AWS:** Se aprovecharon los servicios de Amazon AWS para ampliar la infraestructura en la nube pública. Se configuraron instancias EC2, se implementaron redes virtuales VPC y se establecieron políticas de acceso y seguridad según las mejores prácticas.
-  - **Copia de Seguridad y Alta Disponibilidad:** Se diseñaron y configuraron soluciones de copia de seguridad para garantizar la integridad de los datos y la continuidad del servicio. Además, se implementaron políticas de alta disponibilidad para minimizar el tiempo de inactividad y maximizar la confiabilidad de los servicios.
+- **Ámbito 2:** Seguridad y Gestión de Accesos
+  - **Configuración de Firewall:** Se configuraron firewalls tanto en los servidores locales como en la infraestructura de la nube para garantizar la seguridad de los datos y prevenir accesos no autorizados.
+  - **Gestión de Accesos:** Se implementaron políticas de acceso y permisos para restringir el acceso a los recursos de la infraestructura, garantizando la confidencialidad e integridad de la información.
 
-- **Ámbito 2: Optimización del Rendimiento y Seguridad:**
-  - **Optimización de Recursos:** Se llevó a cabo una optimización exhaustiva de los recursos de hardware y software para maximizar el rendimiento y la eficiencia operativa de los servidores virtuales.
-  - **Seguridad y Cumplimiento:** Se implementaron medidas de seguridad proactivas para proteger la infraestructura contra amenazas externas e internas. Esto incluyó la configuración de firewalls, la aplicación de parches de seguridad y la auditoría regular del sistema para garantizar el cumplimiento de las políticas de seguridad.
+- **Ámbito 3:** Monitorización y Mantenimiento
+  - **Implementación de Herramientas de Monitorización:** Se implementaron herramientas de monitorización para supervisar el rendimiento de los servidores virtuales y detectar posibles problemas de manera proactiva.
+  - **Programación de Tareas de Mantenimiento:** Se establecieron procedimientos de mantenimiento periódico para garantizar el correcto funcionamiento de la infraestructura, incluyendo actualizaciones de software y copias de seguridad regulares.
 
-- **Ámbito 3: Documentación y Entrega de Capacitación:**
-  - **Documentación Técnica:** Se elaboró documentación técnica detallada que describía la arquitectura de la infraestructura, los procedimientos de configuración y las políticas de seguridad. Esta documentación sirvió como referencia para el mantenimiento continuo y la capacitación del personal.
-  - **Entrega de Capacitación:** Se proporcionó capacitación al personal relevante sobre el uso y la administración de la infraestructura de servidores virtuales. Se organizaron sesiones de formación práctica y se ofreció soporte continuo para garantizar la adopción efectiva de la nueva tecnología.
-
-- **Resultados y Logros:**
-  - El proyecto logró implementar con éxito una infraestructura de gestión de servidores virtuales que cumplió con los requisitos de rendimiento, seguridad y escalabilidad de la empresa.
-  - Se mejoró la eficiencia operativa al consolidar recursos y automatizar tareas administrativas, lo que resultó en una reducción de costos y una mayor agilidad empresarial.
-  - La empresa pudo aprovechar nuevas oportunidades de negocio al expandir su presencia en la nube pública y ofrecer servicios más escalables y flexibles a sus clientes.
-
-- **Lecciones Aprendidas y Recomendaciones:**
-  - Se identificaron y documentaron las lecciones aprendidas durante el proceso de implementación, lo que permitió mejorar los procesos y evitar errores similares en proyectos futuros.
-  - Se proporcionaron recomendaciones para optimizar aún más la infraestructura y mejorar la seguridad, con sugerencias específicas para la implementación de tecnologías emergentes y prácticas de gestión de riesgos.
-
-- **Detalles Adicionales:**
-  - Para obtener más detalles sobre la implementación y los resultados del proyecto, se pueden proporcionar informes adicionales y presentaciones detalladas bajo petición.
+- **Duración:** [Duración del proyecto en meses/días]
+- **Equipo de Trabajo:** [Lista de miembros del equipo involucrados en el proyecto]
+- **Resultados y Logros:** [Breve resumen de los resultados obtenidos y los logros alcanzados durante el proyecto]
 
 
 ### Proyecto 3: [Título del Proyecto]

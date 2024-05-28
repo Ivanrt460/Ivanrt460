@@ -66,7 +66,8 @@ Comprobación y reparación de cableado de red.
 Instalación de sistemas operativos y servicios en la nube.
 Configuración de servidores web y DNS.
 Implementación de servicios en Amazon AWS.
-Proyecto 2: Implementación de Sistema de Gestión de Servidores Virtuales
+
+### Proyecto 2: Implementación de Sistema de Gestión de Servidores Virtuales
 Ámbitos:
 
 Infraestructura de Servidores Virtuales
@@ -79,7 +80,8 @@ Configuración y despliegue de servidores en Proxmox y Amazon AWS.
 Implementación de medidas de redundancia y alta disponibilidad.
 Configuración de firewalls y políticas de acceso.
 Implementación de herramientas de monitorización y mantenimiento.
-Proyecto 3: Migración, Redundancia, Seguridad y DevOps en Bases de Datos
+
+### Proyecto 3: Migración, Redundancia, Seguridad y DevOps en Bases de Datos
 Duración: 10/01/2024 - 13/02/2024 (127 horas)
 
 Ámbitos:
@@ -97,7 +99,8 @@ Configuración de equipos de red y medidas de seguridad en el CPD.
 Automatización de tareas administrativas con PowerShell.
 Implementación de subredes y aplicaciones web utilizando DevOps.
 Análisis de vulnerabilidades y aplicación de medidas de seguridad en bases de datos.
-Proyecto 4: Ciberseguretat, Administració de SO i Auditories de Seguretat
+
+### Proyecto 4: Ciberseguretat, Administració de SO i Auditories de Seguretat
 Duración: 14/02/2024 al 09/04/2024 (179h)
 
 Ámbitos:
@@ -114,7 +117,8 @@ Implementación de software de análisis de malware.
 Configuración de VLANs y ACLs.
 Realización de pruebas de penetración y análisis de vulnerabilidades.
 Automatización de tareas con PowerShell.
-Proyecto 5: Alta Disponibilidad, Multimèdia, Xarxes i Serveis Avançats - Propuesta Lliure
+
+### Proyecto 5: Alta Disponibilidad, Multimèdia, Xarxes i Serveis Avançats - Propuesta Lliure
 Duración: 10/04/2024 al 05/06/2024 (184h)
 
 Ámbitos:
@@ -133,8 +137,6 @@ Configuración de redes y seguridad con NAT y port forwarding.
 Configuración de servicios de telefonía y correo electrónico.
 Implementación de alta disponibilidad con Hyper-V y PrestaShop.
 Estos proyectos están diseñados para proporcionar una experiencia integral en la configuración y gestión de infraestructuras de red, seguridad, y servicios en la nube, con un enfoque práctico en la resolución de problemas y la implementación de soluciones eficientes.
-
----
 
 ## 📜 Certificaciones
 - [Certificación 1]

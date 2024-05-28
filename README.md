@@ -255,8 +255,96 @@ Segons rúbriques definides al moodle.
 Rúbrica transversal amb seguiment setmanal.
 Aquest és un resum de les tasques i objectius del projecte de Ciberseguretat, Administració de SO i Auditories de Seguretat, detallant les àrees d'actuació, els mòduls implicats, les tasques específiques a realitzar i els requisits previs per a la correcta execució del projecte.
 
-### Proyecto 5: [Título del Proyecto]
-- **Descripción:** Breve descripción del proyecto.
+### 
+Projecte 5: Alta disponibilitat, multimèdia, xarxes i serveis avançats - Proposta lliure
+Àmbit 1: Bases de dades
+Àmbit 2: Sistemes Operatius
+Àmbit 3: Xarxes, seguretat en xarxes i serveis
+Àmbit 5: Redundància (Alta disponibilitat)
+Àmbit 6: Planificació i empresa (transversal)
+Àmbit 7: Proposta Lliure
+Estructura de mòduls i unitats formatives incloses en aquest projecte (178h)
+MP02 UF3 - (3h) Assegurament de la informació
+MP06 UF2 - (29h) Automatització de tasques i llenguatges de guions
+MP07 UF3 - (28h) Administració avançada de xarxes
+MP08 UF3 - (3h) Correu electrònic i missatgeria
+MP08 UF4 - (24h) Serveis d'àudio i vídeo
+MP11 UF3 - (13h) Tallafocs i servidors intermediaris
+MP11 UF4 - (15h) Alta disponibilitat
+MP14 FOL - (7h)
+MP14 Lliure disposició - (56h)
+Temporització del PR5
+Duració: 10/04/2024 al 05/06/2024 (178 h) +6 (184h)
+Requisits previs:
+Tot el projecte ha d’estar planificat i gestionat a través d’alguna eina de planificació (es valorarà setmanalment).
+Heu de disposar d’ordinador portàtil (o sobretaula cedit pel centre) amb mínim de requisits segons full de matrícula.
+Estar dintre d’un grup de treball.
+Disposar de les configuracions d’adreces IP o altres configuracions que l’equip docent estimi oportunes.
+Enllaç programari Microsoft
+
+1. Introducció
+Part 1: Contextualització
+Continueu a la mateixa empresa del projecte anterior i es vol implementar alta disponibilitat entre els serveis publicats a la zona taronja. També es vol implementar alguns programes amb PowerShell i Windows Forms per automatitzar i controlar certs temes de xarxa i seguretat en l’àmbit local al vostre departament de sistemes.
+
+Per dur a terme aquesta adequació, cal que instal·leu a la vostra infraestructura de xarxa uns quants nivells de tallafocs (els mateixos del projecte anterior) i també altres adequacions als dispositius d’interconnexió (Switchos i Routers). A més, cal implantar programari d’anàlisi de programari maliciós i, en definitiva, millorar la seguretat informàtica global de l’empresa, segons el que ja s’havia vist al projecte anterior.
+
+Referent a la infraestructura de la xarxa i la interconnexió de les diferents seus, haureu d’afegir més seguretat afegint ACL’s i VLAN’s per tal de millorar l’entorn de connexió. Caldrà a més implantar sistemes de seguretat defensiva, com tallafocs, proxys, sistemes de detecció d’intrusions i programari antivirus o anti-malware, per tant, el mateix que ja es va implantar anteriorment al projecte 4.
+
+Caldrà automatitzar processos amb Windows PowerShell i configurar els serveis de telefonia de l’empresa.
+
+El servidor web de l’empresa correrà ara en alta disponibilitat, per tant, es farà servir Hyper-V Server en alta disponibilitat (mínim dues màquines) on la màquina virtual amb PrestaShop s’executarà i oferirà el servei als clients.
+
+L’esquema de la infraestructura quedarà de la següent manera:
+Esquema de la infraestructura
+
+Tasques i adequacions a fer:
+Bases de dades
+Algun dels serveis del PR ha de tenir base de dades, i s'ha de gestionar la còpia de seguretat mitjançant algun tipus de programari de còpia de seguretat.
+Automatització de còpies de seguretat amb “Bash+cron” d’alguna de les màquines que s’executen al Proxmox (contenidors o VMs) agafant directament els fitxers de còpia (programar còpies de seguretat al Proxmox) i copiant-los a algun sistema extern de backups (TrueNAS professors, us donarem la informació de destí de les còpies).
+Sistemes operatius (automatització)
+Automatitzar processos amb Windows PowerShell i Windows Forms.
+Crear una aplicació petita per canviar xarxa de “public” a “private” o a la inversa.
+Crear una aplicació que comprovi si l’adreça MAC del Gateway ha canviat.
+Crear una aplicació per a l’alta d’usuaris a l’Active Directory amb delegació de UO (unitat organitzativa).
+Investigar/cercar a través de finestra Windows Forms dades sobre les màquines connectades a la xarxa, mitjançant la programació d’un frontend d’NMAP per descobrir adreces MAC, adreces IP, interfícies, etc.
+Xarxes
+Implementar diverses modificacions als dispositius de xarxa DLINK i altres sistemes de seguretat amb NAT i portforwarding cap a VLAN 701.
+Configurar VLANs i trunks als commutadors Cisco.
+Configurar xarxes amb el protocol OSPF per comunicar-vos amb la resta de Routers 1841 i altres grups.
+Implementar NAT als Routers per les VLAN 701 a 703.
+Configurar una VPN cap a Isard pilotFP per portar servei remot d’Isard a local.
+Correu electrònic
+Configurar algun servei que utilitzi o enviï notificacions o bé alguns logs al correu electrònic escollit pel grup de treball.
+Àudio / Vídeo
+Implementar un servidor de telefonia FreePBX a la zona taronja.
+Configurar softphones a la zona verda o portàtils comercials amb obertura de ports o VPN.
+Configurar telèfons Cisco VoIP (o similars) a la zona verda a l'oficina amb obertura de ports o VPN.
+Capturar trucades amb Wireshark.
+Tallafocs
+Configurar el tallafocs pfSense amb els filtres següents:
+Afegir una “blacklist” amb continguts prohibits (drugs, porn, music, games, etc.).
+Afegir una “whitelist” per als serveis de Google, Youtube, Microsoft, etc.
+Generar informes i estadístiques de navegació.
+Alta disponibilitat
+Muntar servidors necessaris per crear un Failover Cluster en Windows Server Hyper-V a Proxmox amb la web de Prestashop.
+Configurar un servidor virtual iSCSI en TrueNAS o en Windows Server.
+Configurar dos sistemes més amb Windows Server amb Hyper-V i Failover Cluster als servidors Proxmox.
+Fer proves d’alta disponibilitat del sistema amb vídeos de moviment de màquina en temps real.
+Proposta lliure (Només no DUALS)
+Proposta lliure d'aprox. 40 hores, validada per l'equip docent.
+Avaluació
+Segons rúbriques definides al Moodle:
+PR5 - MP02 - UF3 - Rúbrica (3h) - assegurament de la informació
+PR5 - MP06 - UF2 - Rúbrica (29h) - automatització de tasques i llenguatges de guions
+PR5 - MP07 - UF3 - Rúbrica (28h) - administració avançada de xarxes
+PR5 - MP08 - UF3 - Rúbrica (3h) - correu electrònic i missatgeria
+PR5 - MP08 - UF4 - Rúbrica (24h) - serveis d’àudio i vídeo
+PR5 - MP11 - UF3 - Rúbrica (13h) - tallafocs i servidors intermediaris
+PR5 - MP11 - UF4 - Rúbrica (15h) - alta disponibilitat
+MP14 FOL - (7h)
+MP14 Lliure disposició - (56h)
+Rúbrica transversal (seguiment setmanal).
+Exemple de planificació
 
 ---
 

@@ -2,10 +2,6 @@
 
 ---
 
-<div align="center">
-  <img height="500" src="https://iili.io/HrbGfsf.png"  />
-</div>
-
 Hola Buenas,
 Bienvenido a mi canal de GitHub.
 Soy un estudiante de 20 años de ASIX y trabajador a tiempo parcial de Helpdesker.
